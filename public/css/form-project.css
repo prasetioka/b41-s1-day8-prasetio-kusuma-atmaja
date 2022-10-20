@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #e3e7eb;
+}
+
+.navbar-brand {
+    margin-left: 20vw;
+}
+
+.nav-button {
+    margin-right: 20vw;
+}
+
+form {
+    margin-left: 35vw;
+    margin-right: 35vw;
+}
+
+form input, select, textarea {
+    border: none;
+    resize: none;
+    width: 100%;
+    box-sizing: border-box;
+    box-shadow: 0px 3px 8px grey;
+}
+
+form .project-tech .tech-option input {
+    width: auto;
+    box-shadow: 0;
+    cursor: pointer;
+}

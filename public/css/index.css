@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #e3e7eb;
+}
+
+.navbar-brand {
+    margin-left: 20vw;
+}
+
+.nav-button {
+    margin-right: 20vw;
+}
+
+.wrapper-card {
+    height: 100%;
+}
+
+.container-card {
+    margin: 15vh 20vw 17vh 20vw;
+    box-shadow: 0px 5px 50px gray;
+}
+
+.card-description p {
+    text-align: justify;
+}
+
+.card-right .card {
+    background-color: #e3e7eb;
+    box-shadow: -5px 5px 5px grey;
+}
+
+.section-project {
+    padding: 8vh 8vw;
+    height: auto;
+}
+
+.grid-container {
+    gap: 6vw;
+}
+
+.section-project .card-project {
+    width: 320px;
+    box-shadow: 0px 5px 10px grey;
+}
+
+.section-project .card-project p {
+    text-align: justify;
+}
